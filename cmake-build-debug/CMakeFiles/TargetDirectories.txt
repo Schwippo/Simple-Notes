@@ -1,5 +1,0 @@
-C:/Users/Lena/Documents/GitHub/Mini-Projekte/cmake-build-debug/CMakeFiles/Mini_Projekte.dir
-C:/Users/Lena/Documents/GitHub/Mini-Projekte/cmake-build-debug/CMakeFiles/note-app.dir
-C:/Users/Lena/Documents/GitHub/Mini-Projekte/cmake-build-debug/CMakeFiles/note-filesystem.dir
-C:/Users/Lena/Documents/GitHub/Mini-Projekte/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Lena/Documents/GitHub/Mini-Projekte/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Lena\Documents\GitHub\Mini-Projekte -B C:\Users\Lena\Documents\GitHub\Mini-Projekte\cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Lena\Documents\GitHub\Simple-Notes -B C:\Users\Lena\Documents\GitHub\Simple-Notes\cmake-build-debug
 -- The C compiler identification is GNU 13.1.0
 -- The CXX compiler identification is GNU 13.1.0
 -- Detecting C compiler ABI info
@@ -12,5 +12,24 @@
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Configuring done (2.2s)
--- Generating done (0.1s)
--- Build files have been written to: C:/Users/Lena/Documents/GitHub/Mini-Projekte/cmake-build-debug
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    main.cpp
+
+
+CMake Error at CMakeLists.txt:8 (add_executable):
+  Cannot find source file:
+
+    note-filesystem.cpp
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: Mini_Projekte
+
+
+CMake Error at CMakeLists.txt:8 (add_executable):
+  No SOURCES given to target: note-filesystem
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
